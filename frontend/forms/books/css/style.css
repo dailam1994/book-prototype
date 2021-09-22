@@ -1,0 +1,17 @@
+/* Global Variable */
+:root {
+    --eggRobinBlue: rgb(0,204,204);
+}
+
+/* Overall */
+body {
+    background-color: var(--eggRobinBlue);
+}
+
+/* Form */
+fieldset {
+    display: flex;
+    flex-direction: column;
+    margin: 10px 450px;
+}
+    

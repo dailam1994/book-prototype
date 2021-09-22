@@ -1,0 +1,13 @@
+/* Global Variable */
+:root {
+    --eggRobinBlue: rgb(0,204,204);
+}
+
+/* Overall */
+body {
+    background-color: var(--eggRobinBlue);
+}
+
+div {
+    float: right;
+}
